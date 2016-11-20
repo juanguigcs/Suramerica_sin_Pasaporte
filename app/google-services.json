@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "668909515211",
+    "firebase_url": "https://suramerica-sin-pasaporte.firebaseio.com",
+    "project_id": "suramerica-sin-pasaporte",
+    "storage_bucket": "suramerica-sin-pasaporte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668909515211:android:97caf915623659db",
+        "android_client_info": {
+          "package_name": "cualmemo.suramerica_sin_pasaporte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668909515211-qa5h7ouojokqd8941bmck23mkk9c649g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cualmemo.suramerica_sin_pasaporte",
+            "certificate_hash": "003992E0721F649986887E79AF601EBC0E23E499"
+          }
+        },
+        {
+          "client_id": "668909515211-5lphh0adh1c3569s7vre1cfm0b9jur4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRB9jIQI7bGHzZ_qJwgnWDsFVFZ4SeXXc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668909515211-5lphh0adh1c3569s7vre1cfm0b9jur4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
